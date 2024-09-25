@@ -1,0 +1,16 @@
+ArrayList Access with SIZE 10: 21.0859 ms
+ArrayList Access with SIZE 100: 26.5146 ms
+ArrayList Access with SIZE 1000: 5.1687 ms
+ArrayList Access with SIZE 10000: 4.7997 ms
+LinkedList Add/Remove with SIZE 10: 59.6501 ms
+LinkedList Add/Remove with SIZE 100: 58.7384 ms
+LinkedList Add/Remove with SIZE 1000: 28.4809 ms
+LinkedList Add/Remove with SIZE 10000: 32.8905 ms
+LinkedList Access with SIZE 10: 19.563 ms
+LinkedList Access with SIZE 100: 63.2376 ms
+LinkedList Access with SIZE 1000: 979.1917 ms
+LinkedList Access with SIZE 10000: 5088.9094 ms
+ArrayList Add/Remove with SIZE 10: 20.2863 ms
+ArrayList Add/Remove with SIZE 100: 24.1214 ms
+ArrayList Add/Remove with SIZE 1000: 9.329 ms
+ArrayList Add/Remove with SIZE 10000: 9.1073 ms
